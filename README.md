@@ -12,7 +12,7 @@ This bot supports:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/telegram-bot-repo.git
+   git clone https://github.com/mhdashikofficial/Scraper.git
 Install dependencies:
 bash
 Copy code
