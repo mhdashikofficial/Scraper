@@ -16,7 +16,37 @@ This bot supports:
 Install dependencies:
 bash
 Copy code
-pip install -
+
+
+pip install -r requirements.txt
+Configure your config.py file with your API ID, API Hash, and Bot Token.
+
+Run the bot:
+
+bash
+Copy code
+python bot.py
+Usage
+Use the /start command to begin the authentication process.
+Once authenticated, you can choose to:
+Scrape members from a group
+Send bulk messages to members
+Add members to another group
+Passkey
+The default passkey is vip666. Modify this in bot.py for security.
+
+yaml
+Copy code
+
+---
+
+### **Final Notes**
+
+This project structure allows for all the features we discussed, using `Telethon` for Telegram interaction and includes a secure flow with passkey-based authentication. Feel free to adapt and extend the code further.
+
+
+
+
 
 
 
