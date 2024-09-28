@@ -40,9 +40,6 @@ Copy code
 
 ---
 
-### **Final Notes**
-
-This project structure allows for all the features we discussed, using `Telethon` for Telegram interaction and includes a secure flow with passkey-based authentication. Feel free to adapt and extend the code further.
 
 
 
